@@ -1,7 +1,7 @@
 baseURL = "https://h3nnn4n.github.io/"
 languageCode = "en-us"
 title = "h3nnn4n"
-theme = "minimal"
+theme = "minimal-mine"
 googleAnalytics = "UA-66138442-1"
 
 [params]
