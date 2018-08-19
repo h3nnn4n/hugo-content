@@ -15,7 +15,7 @@ init protein structure problem.
 
 I am a man of many hobbies. I have a strong passion for puzzles, specially
 twisty ones, like the Rubik's Cube. I love cats and coffee. I play drums and do
-origami. I like biking and hiking. I love artificial inteligence, optimization
+origami. I like biking and hiking. I love artificial intelligence, optimization
 and machine learning (looks like everyone nowdays does).
 
 ![Rubik's Cube Collection](/images/cube_collection.jpg)
