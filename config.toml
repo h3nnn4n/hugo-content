@@ -1,0 +1,52 @@
+baseURL = "https://h3nnn4n.github.io/"
+languageCode = "en-us"
+title = "h3nnn4n"
+theme = "minimal"
+googleAnalytics = ""
+
+[params]
+    author = "Renan S Silva"
+    description = "My doings and passions"
+    githubUsername = "h3nnn4n"
+    accent = "#1695e9"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "monokai"
+    highlightLanguages = ["python", "haskell", "c"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 3
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 4
+
+[[menu.icon]]
+    url = "mailto:renan.samuel.da.silva@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/h3nnn4n/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/renan-s-silva-76b0a6133/"
+    name = "linkedin"
+    weight = 3
