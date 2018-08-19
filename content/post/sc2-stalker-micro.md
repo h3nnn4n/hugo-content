@@ -53,7 +53,7 @@ permanent and make them work together with focus firing for example. The
 following video shows this (the grouping) in action.
 
 
-![Wait for unit](/gifs/wait_for_allies.gif)
+<video autoplay loop muted src="/videos/wait_for_allies.webm"></video>
 
 
 The unit control while in combat is based on a simple set of conditions. The
@@ -77,7 +77,7 @@ because more units can shoot the same unit at the same time. The attack surface
 is maximized. This can be seem happening in the following videos.
 
 
-![Arc1](/gifs/arc1.gif)
+<video autoplay loop muted src="/videos/arc1.webm"></video>
 
 
 As it can be seem, the closer that an enemy unit tries to get to the stalkers,
@@ -87,7 +87,7 @@ spells and attacks. The shape also makes hard for one unit to be focused down,
 thus increasing the overall survivability of the unit and the army.
 
 
-![Arc2](/gifs/arc2.gif)
+<video autoplay loop muted src="/videos/arc2.webm"></video>
 
 
 The Three Gate Blink All In bot, before having micro added, had a very small
