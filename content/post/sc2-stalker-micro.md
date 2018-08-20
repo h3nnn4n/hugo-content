@@ -66,7 +66,9 @@ the unit will be able to blink away from the fight after losing its shields,
 which allows for the damage to be distributed among all units and keeping the
 number of allied units high.
 
-<!--![Fighting](/gifs/kite.gif)-->
+
+<video autoplay loop muted src="/videos/kite.webm"></video>
+
 
 The position where the unit will walk back, if needed, is directly behind it,
 when facing the closest enemy unit. While this is very simple and has some
