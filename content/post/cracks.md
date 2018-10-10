@@ -1,6 +1,6 @@
 ---
 title: "Cracks"
-date: 2018-09-29
+date: 2018-10-10
 tags: ["javascript", "physics", "visual", "creative"]
 draft: false
 ---
