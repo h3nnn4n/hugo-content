@@ -17,3 +17,4 @@ My implementation works in a much simpler way. It generates a line equation with
 and it picks a random point in this line. From this random point, it finds the intersections to the
 right and left and draws a line segment connecting these two intersection points. And this is it :D
 A very simple logic and a very simple implementation, which produces a very interesting result.
+As usual, the implementation is opensource and available [here](https://github.com/h3nnn4n/cracks).
