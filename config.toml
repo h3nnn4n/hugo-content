@@ -37,8 +37,8 @@ googleAnalytics = "UA-66138442-1"
     weight = 4
 
 [[menu.icon]]
-    url = "mailto:renan.samuel.da.silva@gmail.com"
-    name = "envelope-o"
+    url = "https://www.instagram.com/h3nnn4n/"
+    name = "instagram"
     weight = 1
 
 [[menu.icon]]
@@ -50,3 +50,8 @@ googleAnalytics = "UA-66138442-1"
     url = "https://www.linkedin.com/in/renan-s-silva-76b0a6133/"
     name = "linkedin"
     weight = 3
+
+[[menu.icon]]
+    url = "mailto:renan.samuel.da.silva@gmail.com"
+    name = "envelope-o"
+    weight = 4
