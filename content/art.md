@@ -11,6 +11,9 @@ One of the (secret) dreams that I have is to someday have an art exposition with
 This are some of my more recent works. Mostly done with python and pycairo and posted to my [Instagram](https://www.instagram.com/h3nnn4n/).
 
 <div id="gallery" >
+    <a href="/images/art/contrast.png">
+        <img src="/images/art/contrast.png" alt="Experiments with high contrast" /></p>
+    </a>
     <a href="/images/art/order_and_chaos.png">
         <img src="/images/art/order_and_chaos.png" alt="Order and Chaos" /></p>
     </a>
