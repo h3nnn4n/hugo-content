@@ -29,4 +29,4 @@ C code and get hold of a shady Tetris rom.
 This article still a work in progress ;)
 I published in it order to test and deploy it to run on a browser without my local setup.
 
-<iframe class='iframe' src="/smart-panda/dist/index.html" width="700" height="680" frameBorder="0"></iframe>
+<iframe class='iframe' src="/smart-panda/dist/index.html" width="700" height="600" frameBorder="0"></iframe>
