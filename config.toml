@@ -11,10 +11,7 @@ googleAnalytics = "UA-66138442-1"
     accent = "#1695e9"
     showBorder = true
     backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "monokai"
-    highlightLanguages = ["python", "haskell", "c"]
+    font = "Raleway"
 
 [[menu.main]]
     url = "/"
