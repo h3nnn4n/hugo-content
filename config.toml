@@ -57,3 +57,6 @@ googleAnalytics = "UA-66138442-1"
     url = "mailto:renan.samuel.da.silva@gmail.com"
     name = "envelope-o"
     weight = 4
+
+[markup.goldmark.renderer]
+    unsafe= true
