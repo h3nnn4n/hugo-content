@@ -8,8 +8,9 @@ git checkout master
 echo -e "\033[0;32mUpdading shootaroo-dist...\033[0m"
 cd shootaroo-dist
 echo $(pwd)
-rm -rfv *
-cp -rv ~/progs/Shootaroo/app/* .
+git checkout master
+rm -rf *
+cp -r ~/progs/Shootaroo/app/* .
 git add .
 git commit -m'version bump'
 git push
