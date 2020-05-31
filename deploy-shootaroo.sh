@@ -10,7 +10,7 @@ cd shootaroo-dist
 echo $(pwd)
 git checkout master
 rm -rf *
-cp -r ~/progs/Shootaroo/app/* .
+cp -r ~/progs/Shootaroo/builds/webgl/app/* .
 git add .
 git commit -m'version bump'
 git push
