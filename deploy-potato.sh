@@ -5,13 +5,13 @@ echo -e "\033[0;32mDeploying to GitHub...\033[0m"
 cd public
 git checkout master
 
-echo -e "\033[0;32mUpdading shootaroo-dist...\033[0m"
-mkdir -vp shootaroo-dist
-cd shootaroo-dist
+echo -e "\033[0;32mUpdading potato-dist...\033[0m"
+mkdir -vp potato-dist
+cd potato-dist
 echo $(pwd)
 git checkout master
 rm -rf *
-cp -r ~/progs/Shootaroo/builds/webgl/app/* .
+cp -r ~/progs/potato/builds/webgl/app/* .
 git add .
 git commit -m'version bump'
 git push
