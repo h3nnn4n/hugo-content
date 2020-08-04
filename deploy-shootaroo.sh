@@ -16,6 +16,7 @@ git add .
 git commit -m'version bump'
 git push
 cd ../
+echo -e "\033[0;32mFinished shootaroo-dist...\033[0m"
 
 git add .
 
