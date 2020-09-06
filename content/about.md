@@ -21,6 +21,13 @@ twisty ones, like the Rubik's Cube. I love cats and coffee. I play drums and do
 origami. I like biking and hiking. I love artificial intelligence, optimization
 and machine learning (looks like everyone nowdays does).
 
+Another thing that I do really enjoy is creative coding, which I have been
+doing on and off for more than 10 years. IIRC I started it in 2008, kidding
+around with QBasic and some trigonometry. A special kind of creative coding
+that I tend to do a lot is to fractals and strange / chaotic attractors as
+the main object in the piece. If you look around this page you will find a
+couple of examples. My github also has a lot of code about it too.
+
 Here is a random picture of my puzzle collection (the cat is a specially hard
 one).
 
