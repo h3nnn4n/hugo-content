@@ -4,11 +4,22 @@ date: 2019-02-17T10:50:17-03:00
 draft: false
 ---
 
-Over the last 10 or so years (since before high school) I have gathered interest in creative coding and doing art with computers. Back then I didn't even know what creative coding was. My first experiments were with Lissajous curves made in QuickBasic. Over the years I learned more about programming and started doing more complex things. Many of the works that I did are now lost because I didn't care to share or properly store them.
+Over the last 10 or so years (since before high school) I have gathered
+interest in creative coding and doing art with computers. Back then I didn't
+even know what creative coding was. My first experiments were with Lissajous
+curves made in QuickBasic. Over the years I learned more about programming and
+started doing more complex things. Many of the works that I did are now lost
+because I didn't care to share or properly store them.
 
-One of the (secret) dreams that I have is to someday have an art exposition with my works. Back then it was not something that I had too much focus on. However, recently I became more and more interested in pursuing an artistic effort in parallel with my main line of work. I guess that this art gallery is the first step towards it. It includes my most recent works with the goal to share them with the world.
+One of the (secret) dreams that I have is to someday have an art exposition
+with my works. Back then it was not something that I had too much focus on.
+However, recently I became more and more interested in pursuing an artistic
+effort in parallel with my main line of work. I guess that this art gallery is
+the first step towards it. It includes my most recent works with the goal to
+share them with the world.
 
-This are some of my more recent works. Mostly done with python and pycairo and posted to my [Instagram](https://www.instagram.com/h3nnn4n/).
+This are some of my more recent works. Mostly done with python and pycairo and
+posted to my [Instagram](https://www.instagram.com/h3nnn4n/).
 
 <div id="gallery" >
     <a href="/images/art/contrast.png">
