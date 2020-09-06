@@ -9,7 +9,7 @@ draft: false
 - Rust powered and web based __Mandelbrot set explorer__. Supports 3 rendering
   modes and antialiasing. Mainly an excercise on using Rust/wasm to do
   something cool.
-  - [Browser version](/strange-explorer)
+  - [Browser version](/mandelbrot-explorer)
   - [Source code](https://github.com/h3nnn4n/Mandelbrot-Explorer)
 
 ### Strange Attractors
