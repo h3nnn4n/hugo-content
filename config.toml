@@ -29,8 +29,8 @@ googleAnalytics = "UA-66138442-1"
     weight = 3
 
 [[menu.main]]
-    url = "/strange-explorer/"
-    name = "Strange Explorer"
+    url = "/creative-coding/"
+    name = "Creative Coding"
     weight = 4
 
 [[menu.main]]
