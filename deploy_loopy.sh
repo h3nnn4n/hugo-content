@@ -9,7 +9,6 @@ echo -e "\033[0;32mUpdading loopy-dist...\033[0m"
 rm -rf loopy-dist
 mkdir -vp loopy-dist
 cp -r ~/progs/games/loopy/builds/webgl/* loopy-dist/
-cd ../
 echo -e "\033[0;32mFinished loopy-dist...\033[0m"
 
 git add .
