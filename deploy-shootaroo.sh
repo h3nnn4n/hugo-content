@@ -29,7 +29,7 @@ cd public
 git add .
 
 # Commit changes.
-msg="rebuilding site `date`"
+msg="rebuilding site `date` with shootaroo update"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
