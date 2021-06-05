@@ -8,7 +8,7 @@ Hey there. I am Renan S Silva, also known as h3nnn4n or bacon_unleased /
 bacon_unleashed, depending on where you know me from. I recived my bachelor
 degree on Computer Science from the [State University of Santa
 Catarina](https://www.udesc.br/) on august 2017. Imediately after that I
-started a master's degree in applied computing [Applied
+started a master's degree in [Applied
 Computing](https://www.udesc.br/cct/ppgca) working with the Ab Initio protein
 structure problem, which I concluded 2 years after.
 
