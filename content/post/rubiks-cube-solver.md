@@ -2,7 +2,7 @@
 title: "Rubiks Cube Solver"
 date: 2021-02-27
 tags: ["rubiks cube", "solver", "c"]
-draft: false
+draft: true
 ---
 
 The Rubik's cube, invented in 1974 by Ernő Rubik, is the most sold puzzle of
