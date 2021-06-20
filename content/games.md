@@ -30,3 +30,5 @@ Game is available for free on itch.io and a browser version
 Made as part of the [GMTK 2020 game jam](https://itch.io/jam/gmtk-2020).
 Developed along with [karll](https://khskarl.github.io/) (graphics programming) and
 [zuchi](https://www.instagram.com/viniciuszuchi_/) (music and sfx).
+You can checkout the main theme
+[here](https://soundcloud.com/viniciuszuchi/mustache-jellyfish-main-theme).
